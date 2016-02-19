@@ -1,0 +1,20 @@
+{
+  "name": "ponder",
+  "version": "0.0.1",
+  "description": "Ponder is a tool to help you create your Game Design Document (GDD) quickly and easily. Running on Electron. Add sections to quickly fill out your GDD and update it where necessary.",
+  "author": "Nick Jonsson http://nickjonsson.io",
+  "contributors": [{
+  "name": "Nick Jonsson",
+  "email": "http://nickjonsson.io"
+}],
+  "bugs": {
+  "url": "http://github.com/xjonsson/gbd-ponder/issues"
+},
+  "keywords": [
+  "node",
+  "GDD"
+],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
